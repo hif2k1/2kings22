@@ -1,0 +1,25 @@
+{
+  "name": "2kings22",
+  "version": "1.0.0",
+  "description": "A web app to build a christian community centred around reading and listening to the bible in every day peoples voices and accents",
+  "homepage": "https://github.com/hif2k1/2kings22#readme",
+  "bugs": {
+    "url": "https://github.com/hif2k1/2kings22/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hif2k1/2kings22.git"
+  },
+  "license": "ISC",
+  "author": "hif2k1",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/react": "^19.2.14",
+    "firebase": "^12.12.1",
+    "react": "^19.2.5"
+  }
+}
